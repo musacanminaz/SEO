@@ -20,7 +20,7 @@ SEO için Linkler Betül Bağçeci
 <a href="http://betulbagceci.com/">Betül Bağçeci</a>
 <a href="http://betulbagceci.com/">Bebek Hemşiresi</a>
 <a href="http://betulbagceci.com/">Emzirme Danışmanlığı</a>
-<a href="http://betulbagceci.com/">Betül Bağçeci</a>
+<a href="http://betulbagceci.com/">Yenidoğan Hemşiresi</a>
 <a href="http://betulbagceci.com/">Emzirme Eğitimi</a>
 
 SEO için Linkler Ariston İzmir Servisi
