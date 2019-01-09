@@ -28,3 +28,9 @@ SEO için Linkler Ariston İzmir Servisi
 <a href="http://aristonizmirservisi.com/">Ariston Servisi</a>
 <a href="http://aristonizmirservisi.com/">Ariston Servis İzmir</a>
 <a href="http://aristonizmirservisi.com/">Ariston İzmir Servis</a>
+
+SEO için Linkler Manuel Terapi
+<a href="http://manuelterapi.net/">Manuel Terapi</a>
+<a href="http://manuelterapi.net/">Manuel Terapist</a>
+<a href="http://manuelterapi.net">Boyun Fıtığı</a>
+<a href="http://manuelterapi.net">Bel Fıtığı</a>
